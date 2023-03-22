@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First EXample</string>
+    <string name="torks_industrial_solar">Torks Industrial Solar</string>
+    <string name="constant_power">Constant Power</string>
+</resources>
